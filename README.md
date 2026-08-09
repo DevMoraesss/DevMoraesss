@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Juan Moraes 👋</h1>
 
 <p align="left">
-<b>Full Stack Developer</b> — Campinas, Brazil 🇧🇷<br>
+<b>Full Stack Developer</b> - Campinas, Brazil 🇧🇷<br>
 Building corporate systems, automations and APIs with <b>C# (.NET)</b>, <b>Node.js</b> and <b>Angular</b>.
 </p>
 
@@ -9,10 +9,10 @@ Building corporate systems, automations and APIs with <b>C# (.NET)</b>, <b>Node.
 
 - 💼 Full Stack Developer working on corporate platforms with **C# (.NET 8)**, **Node.js**, **Angular** and **PostgreSQL**
 - 🤖 Built an automation system with **.NET + Playwright** that turned a full workday of manual processes into minutes of automatic execution
-- 🚀 Currently building **PhysioFlow** — a SaaS for physiotherapy clinic management, being validated with a real professional
-- 🎓 Computer Science student — graduating Dec 2026
+- 🚀 Currently building **PhysioFlow** - a SaaS for physiotherapy clinic management, being validated with a real professional
+- 🎓 Computer Science student - graduating Dec 2026
 - 🌱 Always learning: software architecture, clean code and English
-- 📫 Reach me: **juanmoraes651@gmail.com** · [LinkedIn](https://www.linkedin.com/in/juan-moraes-63ab63268/)
+- 📫 Reach me: **juanmoraes651@gmail.com** | [LinkedIn](https://www.linkedin.com/in/juan-moraes-63ab63268/)
 
 ## 🛠️ Tech Stack
 
@@ -62,8 +62,8 @@ Building corporate systems, automations and APIs with <b>C# (.NET)</b>, <b>Node.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[PhysioFlow](COLE_O_LINK_DO_REPO_AQUI)** | Physiotherapy clinic management SaaS — patient records with support for minors and legal guardians, scheduling and clinical evolution tracking. Capstone project being validated with a real physiotherapist. | .NET 8 · Next.js · PostgreSQL · Docker |
-| **[FlixFilme](COLE_O_LINK_DO_REPO_AQUI)** | Movie catalog web app with responsive interface, published and accessible online. | React · TypeScript |
+| **[PhysioFlow](https://github.com/DevMoraesss/FlowPhysio)** | Physiotherapy clinic management SaaS - patient records with support for minors and legal guardians, scheduling and clinical evolution tracking. Capstone project being validated with a real physiotherapist. | .NET 8 | Next.js | PostgreSQL | Docker |
+| **[FlixFilme](https://github.com/DevMoraesss/flixFlime)** | Movie catalog web app with responsive interface, published and accessible online. | React | TypeScript |
 
 ## 📊 GitHub Stats
 
